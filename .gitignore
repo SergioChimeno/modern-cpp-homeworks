@@ -1,0 +1,6 @@
+**/build/
+**/.vscode/
+**/bin/
+**/.results/
+**/.install/
+**/data/
